@@ -22,3 +22,6 @@
    - git remote add origin 레포지토리 URL
    - git remote -v = origin으로 지정한 레포지토리 상태를 확인 가능.
    - git push origin master = 로컬과 원격 저장소를 동기화 ( local -> remote )
+
+
+   
